@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11668" started-at="2020-02-29T11:06:11 IST" finished-at="2020-02-29T11:06:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11668" started-at="2020-02-29T11:06:11 IST" finished-at="2020-02-29T11:06:23 IST">
+      <class name="restassuredlearning.SimpleGetTest">
+        <test-method status="PASS" signature="System_estimator()[pri:0, instance:restassuredlearning.SimpleGetTest@335eadca]" name="System_estimator" duration-ms="11482" started-at="2020-02-29T11:06:11 IST" finished-at="2020-02-29T11:06:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- System_estimator -->
+      </class> <!-- restassuredlearning.SimpleGetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
